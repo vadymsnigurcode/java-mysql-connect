@@ -1,0 +1,6 @@
+code from
+https://tproger.ru/translations/java-jdbc-example/
+
+mysqldriver
+https://downloads.mysql.com/archives/c-j/
+
